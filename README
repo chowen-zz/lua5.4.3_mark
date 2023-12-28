@@ -4,3 +4,9 @@ This is Lua 5.4.3, released on 15 Mar 2021.
 For installation instructions, license details, and
 further information about Lua, see doc/readme.html.
 
+lua5.4.3源码走读笔记
+1.lua虚拟机
+2.lua解释器
+3.lua运行环境
+4.lua脚本加载过程
+5.lua文件格式解析
